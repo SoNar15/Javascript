@@ -1,2 +1,2 @@
 # Javascript
-Acode repo of javascript
+This  repository contains javascript notes and practice codes.
